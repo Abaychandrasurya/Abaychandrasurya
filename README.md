@@ -3,8 +3,6 @@
 <h3 align="center">🚀 Passionate about building innovative IoT solutions that bridge hardware and software.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abaychandrasurya&label=Profile%20views&color=0e75b6&style=flat" alt="abaychandrasurya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abaychandrasurya" alt="abaychandrasurya" /></a> </p>
-
 - 💡 Experienced with ESP32, Arduino, Raspberry Pi, and real-time sensor integration.
 
 - 🌐 Working on smart systems for agriculture, security, healthcare, and automation.
@@ -35,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abaychandrasurya&show_icons=true&locale=en&layout=compact" alt="abaychandrasurya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abaychandrasurya&show_icons=true&locale=en" alt="abaychandrasurya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abaychandrasurya&" alt="abaychandrasurya" /></p>
