@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/abaychandrasurya](www.github.com/abaychandrasurya)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/abaychandrasurya-j-k](www.linkedin.com/in/abaychandrasurya-j-k)
-
 - 📫 How to reach me **abhayc2274@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
