@@ -6,12 +6,6 @@
 
 - 🌐 Working on smart systems for agriculture, security, healthcare, and automation.
 
-- 🧠 Skilled in Python, C/C++, JavaScript, Node.js, MySQL, and cloud platforms like Vercel and Firebase.
-
-- 📊 Love combining AI/ML with IoT for intelligent edge computing.
-
-- 🎓 Active mentor and learner in the tech community , always exploring new ideas and sharing knowledge.
-
 - 💻“Innovate, Automate, Connect – that’s how we build the future.”
 
 - 👨‍💻 All of my projects are available at [www.github.com/abaychandrasurya](www.github.com/abaychandrasurya)
